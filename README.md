@@ -1,1 +1,1 @@
-This is a Snake game using C language graphics library.
+This is a Snake game using EasyX Graphics Library for C.
